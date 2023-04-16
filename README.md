@@ -15,6 +15,6 @@
 
 
 
-<h3 align="left">Githut readme was booring :( </h3>
+<h3 align="left">Github readme was booring :( </h3>
 <h2 align = "left">SO I DID THIS!! -> https://itsrishh.netlify.app/ </h2>
 CMON' let's interact :)
