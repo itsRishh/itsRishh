@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m BLAH BLAH BLAH .......
+- 👯 I’m **BLAH BLAH BLAH .......
 
 
 <br>
