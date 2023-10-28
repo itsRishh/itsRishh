@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jaiswal</h1>
 <h3 align="center">A budding fullstack developer from India</h3>
-<br>
-<br>
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<br>
-<br>
-
-# 💫 About Me:
-A budding Full-Stack Web Developer
 
 
 ## 🌐 Socials:
