@@ -2,22 +2,6 @@
 <div align="center">
   <img src="media/BUDDING-FULL-STACK-DEVELOPER.png" alt="profile-banner"/>
 </div>
-<br>
-
-<div align="right">
-  <img height=200 src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itsRishh/count.svg?"/>
-</div>
-
-<br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/notyo.rish/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/rishabh-jaiswal-bb596122a) 
 
 <br>
 
@@ -43,8 +27,20 @@
 
 <br>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/notyo.rish/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/rishabh-jaiswal-bb596122a) 
+
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/itsRishh/count.svg?"/>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
