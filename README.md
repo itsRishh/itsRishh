@@ -41,6 +41,8 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
