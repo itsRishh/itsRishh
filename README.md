@@ -1,4 +1,4 @@
-<h1 align="center">Heylo 👋, I'm Rishabh Jaiswal</h1>
+<h1 color="#ffffff" align="center">Heylo 👋, I'm Rishabh Jaiswal</h1>
 <h3 align="center">A budding fullstack developer from India</h3>
 <br>
 
