@@ -39,6 +39,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itsRishh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<br>
 
+<img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
