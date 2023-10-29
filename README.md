@@ -1,5 +1,7 @@
 <h1 color="#ffffff" align="center">Heylo 👋, I'm Rishabh Jaiswal</h1>
-<h3 align="center">A budding fullstack developer from India</h3>
+<div align="center">
+  <img width=400 src="/media/BUDDING-FULL-STACK-DEVELOPER.png"/>
+</div>
 <br>
 
 <div align="center">
