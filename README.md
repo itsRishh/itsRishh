@@ -1,6 +1,6 @@
 <h1 color="#ffffff" align="center">Heylo 👋, I'm Rishabh Jaiswal</h1>
 <div align="center">
-  <img width=400 src="./media/BUDDING-FULL-STACK-DEVELOPER.png"/>
+  <img width=400 src="./media/BUDDING-FULL-STACK-DEVELOPER.png" alt="profile-banner"/>
 </div>
 <br>
 
