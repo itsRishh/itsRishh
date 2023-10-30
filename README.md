@@ -2,6 +2,8 @@
   <img src="media/BUDDING-FULL-STACK-DEVELOPER.png" alt="profile-banner"/>
 </div>
 
+![BUDDING-FULL-STACK-DEVELOPER](https://github.com/itsRishh/itsRishh/assets/105977672/40243045-7b3f-4f99-b571-baa5bf8dc138)
+
 <br>
 <h4 color="#ffffff" align="left">Heylo 👋, I'm Rishabh Jaiswal</h4>
 
