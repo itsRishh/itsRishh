@@ -55,13 +55,11 @@
    
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation"/>
-</div>
+<img src="https://raw.githubusercontent.com/itsRishh/itsRishh/output/snake.svg" alt="snake animation"/>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/itsRishh/count.svg?"/>
 </div>
 
