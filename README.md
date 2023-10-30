@@ -41,12 +41,12 @@
 
 <h2>🌐 Socials:</h2>
 
-div align="left">
- <a href="https://www.linkedin.com/in/rishabh-jaiswal-bb596122a/" target="_bl
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&
+<div align="left">
+ <a href="https://www.linkedin.com/in/rishabh-jaiswal-bb596122a/" target="_blank" >
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=f7f7f6&labelColor=13539d&style=for-the-badge" height="40"/>
  </a>
  <a href="https://linktr.ee/Rish.place" target="_blank">
- <img src="https://img.shields.io/static/v1?message=linktree&logo=linktree&
+   <img src="https://img.shields.io/static/v1?message=linktree&logo=linktree&label=&color=1de9b6&logoColor=ffffff&labelColor=139d7b&style=for-the-badge" height="40" />
  </a>
  <a href="https://www.instagram.com/notyo.rish/" target="_blank">
  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagra
