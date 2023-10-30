@@ -6,10 +6,10 @@
 <h2 color="#ffffff" align="left">Heylo 👋, I'm Rishabh Jaiswal</h2>
 <ul>
   <li>♂ He/Him/His 📍 living in Indore, India.</li>
-  <li>loves to play with UI components.</li>
-  <li>preferred toys in the digital sandbox, <strong>HTML, CSS, JavaScript, and ReactJS</strong></li>
+  <li>loves creating seamless, captivating user experiences and beautiful UI components</li>
+  <li>preferred toys in the digital sandbox, <strong>HTML, CSS, JavaScript, and ReactJS.</strong></li>
   <li>actively seeking new opportunities to enhance my expertise and contribute to cutting-edge projects.</li>
-  <li>let's <a href="mailto:rish.jaiswal100@gmail.com">team up.</a></li>
+  <li>let's <a href="mailto:rish.jaiswal100@gmail.com">team up</a> together.</li>
 </ul>
 <br>
 
