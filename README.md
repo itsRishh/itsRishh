@@ -3,8 +3,14 @@
 ![BUDDING-FULL-STACK-DEVELOPER](https://github.com/itsRishh/itsRishh/assets/105977672/40243045-7b3f-4f99-b571-baa5bf8dc138)
 
 <br>
-<h4 color="#ffffff" align="left">Heylo 👋, I'm Rishabh Jaiswal</h4>
-
+<h2 color="#ffffff" align="left">Heylo 👋, I'm Rishabh Jaiswal</h2>
+<ul>
+  <li>♂ He/Him/His 📍 living in Indore, India.</li>
+  <li>loves to play with UI components.</li>
+  <li>toys i prefer: HTML, CSS, JavaScript, ReactJS.</li>
+  <li>actively seeking new opportunities to enhance my expertise and contribute to cutting-edge projects.</li>
+  <li>let's <a href="mailto:rish.jaiswal100@gmail.com">team up.</a></li>
+</ul>
 <br>
 
 # 💻 Tech Stack:
